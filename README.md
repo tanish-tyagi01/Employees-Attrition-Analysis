@@ -30,7 +30,7 @@ The aim is to help HR teams identify key factors influencing attrition and suppo
 
 🔎 Patterns & Risk Areas
 
-Low Salary Bracket (< 5K):
+1. Low Salary Bracket (< 5K):
 
 Majority of attrition is from employees earning less than 5K.
 
@@ -38,13 +38,13 @@ Many of them leave within the first year of joining.
 
 📌 Risk: Compensation dissatisfaction → high turnover in early tenure.
 
-Age Group 25–35:
+2. Age Group 25–35:
 
 Highest attrition is in employees aged 26–35 years.
 
 📌 Risk: This group is early–mid career and likely to switch jobs for better pay/roles.
 
-Job Roles – Lab Technicians & Sales Executives:
+3. Job Roles – Lab Technicians & Sales Executives:
 
 These two roles show the highest attrition numbers.
 
